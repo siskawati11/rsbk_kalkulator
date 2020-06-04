@@ -1,5 +1,4 @@
 # rsbk_kalkulator
-
-obed jeck gredo tarigan
-andro adhista pratama
-siskawati sianipar
+Obed jeck gredo tarigan
+Andro Adhista Pratama
+Siskawati Sianipar
